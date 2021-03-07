@@ -1,3 +1,28 @@
+commit 19924e7e14731fdcd09f65343889b5ac31875a0b
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:31:41 2021 +0000
+
+    git ignore updated to include git log
+
+commit 19baf099feb204e2b3ef247950f40e188fd5bed6
+Merge: f68b76d 374f440
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:30:26 2021 +0000
+
+    exercise conflict resolved
+
+commit f68b76d2e33cb8fda4f060b41fecf3d7a585e4f5
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:28:19 2021 +0000
+
+    exercise to generate conflict
+
+commit 374f440b4d25ea06e66b8b6496d9850dc5ea6656
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:27:07 2021 +0000
+
+    readme exercise changes
+
 commit 9246ff05e83d36e2fbd2e42af1900f5e6ccad390
 Merge: 3ef7c73 502cd82
 Author: mikeyn86 <michaelnoonan86@gmail.com>
