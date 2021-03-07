@@ -1,30 +1,21 @@
-# This is a large heading
+# Michael Noonan
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Dublin, which is the capitol city of Irelans. I grew up in Tipperary, which is a small town in the South East of Ireland.
 
-- This is
-- an unordered
-- list
+### Reading
+Three books which I have read in the past year are:
+- Sea Wolves
+- Citizens
+- 1939: The World we left behind
 
-1. This is
-2. an ordered
-3. list
+### Food
+Favourite Foods:
+1. Chinese
+2. Italian
+3. Thai
 
-Here is `some code` in the middle of a sentence.
+### Socail Media
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+The best way to get in touch with me it through [Twitter](https://twitter.com/mikeyn86)
