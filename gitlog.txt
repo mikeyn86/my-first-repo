@@ -1,0 +1,35 @@
+commit d27c9769f5b70d889cfe8c3f7c6cd16e34597a4c
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:06:55 2021 +0000
+
+    added weather info
+
+commit 473fd0f670629326663cf32d3d18f33a01055373
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:04:03 2021 +0000
+
+    added third line to readme.txt
+
+commit 48c77aab7bbe6752171fe7b72e1168c9748dad32
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sat Mar 6 18:44:38 2021 +0000
+
+    gitignore update
+
+commit 10dc5d91241db51e37cd066523920abdadb102a9
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sat Mar 6 18:40:04 2021 +0000
+
+    added gitignore
+
+commit 3feba9e375577cdfb004b52145a0f8d1b4eeb6ff
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sat Mar 6 18:22:35 2021 +0000
+
+    added two files
+
+commit 1954707af88ed7eff89a7c73c1ce75657830ec11
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sat Mar 6 18:15:52 2021 +0000
+
+    added readme.txt
