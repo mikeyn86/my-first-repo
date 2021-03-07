@@ -1,3 +1,22 @@
+commit 9246ff05e83d36e2fbd2e42af1900f5e6ccad390
+Merge: 3ef7c73 502cd82
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:16:57 2021 +0000
+
+    unresolved confolict
+
+commit 3ef7c73bf626aed14665eb85e0706f977bc02018
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:11:32 2021 +0000
+
+    changed sunny to windy
+
+commit 502cd82ea6b1c21071b60dffde8790feb7b91511
+Author: mikeyn86 <michaelnoonan86@gmail.com>
+Date:   Sun Mar 7 11:10:25 2021 +0000
+
+    changed sunny to cold
+
 commit d27c9769f5b70d889cfe8c3f7c6cd16e34597a4c
 Author: mikeyn86 <michaelnoonan86@gmail.com>
 Date:   Sun Mar 7 11:06:55 2021 +0000
